@@ -1,7 +1,4 @@
 <div align="center">
-<p>
-    <img width="200" src="https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/liquidbounceLogo.svg">
-</p>
 
 [liquidbounce.net](https://liquidbounce.net) |
 [Forum](https://forums.ccbluex.net) |
@@ -10,7 +7,7 @@
 [Twitter](https://twitter.com/CCBlueX)
 </div>
 
-LiquidBounce is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft. 
+delta is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft. 
 
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/CCBlueX/LiquidBounce/issues).
